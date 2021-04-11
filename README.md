@@ -1,6 +1,13 @@
 SKGB-offline Release
 ====================
 
+Diese Software wird seit April 2021 nicht mehr unterstützt.
+Es existiert kein Zeitplan für eine Fortführung der Entwicklung.
+
+
+Beschreibung
+------------
+
 Dies ist das Repository für die Website <https://skgb.github.io/offline-release>, welche die Software [SKGB-offline](https://github.com/skgb/offline) beschreibt. Zweck der Website ist es, Informationen zur Software an einem zentralen, leicht zugänglichen und von anderer Technik des Vereins unabhängigen Ort bereitzuhalten.
 
 Zu einem späteren Zeitpunkt mag es sinnvoll sein, dieses Repository in [offline](https://github.com/skgb/offline) zu integrieren.
